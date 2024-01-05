@@ -4,18 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Better You - Login</title>
+    <link rel="stylesheet" href="/frontend/pages/css/login.css">
+
 </head>
 <body>
     <div id="login-base">
-        <h1>Login</h1>
+        <h1 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; position: absolute; top: 15px;">Log In</h1>
         <div id="login-form">
             <form action="/" method="post">
-                <input placeholder="Username" type="text">
+                <input placeholder="Username" type="text" class="input">
                 <br>
-                <input placeholder="password" type="password">
+                <input placeholder="password" type="password" class="input">
                 <br>
-                <input type="submit" placeholder="Login">
+                <input type="submit" id="submit" class="input" value="Log In">
             </form>
+            <label style="font-size: 20px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">or <a id="sign-up-link" href="" style=""> sign up</a> for free</label>
         </div>
     </div>
     
