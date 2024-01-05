@@ -11,7 +11,7 @@ To run the website using Visual Studio Code, follow these steps:
 1. Go to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) and download Visual Studio Code for your operating system.
 2. Import the project into Visual Studio Code.
 3. Install the "Live Server" extension by Ritwick Dey.
-4. Right-click on the frontend/pages/html/login.html and select "Open with Live Server."
+4. Right-click on the frontend/pages/html/login.html and select "Open with Live Server".
 
 ## Features
 
