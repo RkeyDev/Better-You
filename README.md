@@ -16,7 +16,7 @@ To run the website using Visual Studio Code, follow these steps:
 ## Features
 
 - Login/Register: You can create accounts or log in to existing accounts.
-- Hobbies and habits: You can select your hobbies and habits, whether it's cold showers, working out, playing video games, or any other hobby/habit from the options suggested on the website.
+- Hobbies and habits: You can select your hobbies and habits, whether it's cold showers, working out, play video games, or any other hobby/habit from the options suggested on the website.
 - Personal Space: Every user has their own personal space. In it, they can see their hobbies and habits, their goals and achievements, and more.
 - Text Editor: A text editor where they can write text and save it as a .txt file.
 
