@@ -22,7 +22,7 @@ To run the website using Visual Studio Code, follow these steps:
 
 ### NOTE
 
-These are the very first features. As the website progresses, there will be more features.
+These are the very first features. As the website progresses, there will be more features added.
 
 ## License
 
