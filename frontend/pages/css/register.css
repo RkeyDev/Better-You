@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(34, 49, 46);
+    
+}
+
+#register-base{
+    width:fit-content;
+    background-color: rgb(255, 255, 255);
+    padding: 70px;
+    border-radius: 25px;
+    position:absolute;
+    width: 300px;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+@media (max-width: 768px) {
+    #register-base {
+        width: 30%; 
+        height: 15%;
+        padding: 30%;
+    }
+    .input{
+        margin: 0px;
+        height: 40px;
+    }
+}
+#submit:hover{
+   background-color: rgb(60, 171, 237);
+}
+
+#submit{
+    color: white;
+     font-size: 17px; 
+     border: none; 
+     background-color: rgb(59, 160, 206);
+     height: 45px;
+}
+
+
+.input{
+    border-radius: 3px;
+    margin-top: 15px;
+    outline: none;
+    width:100%;
+    height: 40px;
+    border-width: 0.01px;
+    border-color: rgb(181, 181, 181);
+    border-style:solid;
+}
+
+#login-link:hover{
+    color: rgb(89, 158, 200); 
+    text-decoration: underline;
+}
+
+#login-link{
+    color: rgb(69, 128, 160); 
+    text-decoration: none;
+}
